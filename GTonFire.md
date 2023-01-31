@@ -1,3 +1,4 @@
+```java
 package GoedertierTimo;
 import robocode.*;
 
@@ -127,3 +128,4 @@ public class GTonFire extends JuniorRobot
 		}
 	}
 }
+```
